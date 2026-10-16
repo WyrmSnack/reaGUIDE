@@ -1,0 +1,12 @@
+{
+  "name": "REA guide: Build the open alternative",
+  "short_name": "REA guide",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4338ca",
+  "background_color": "#f6f3ec",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
